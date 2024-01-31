@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm OdaiAyyad</h1>
+# Hi 👋
 
-- 🌱 I’m currently learning **Computer Vision and Deep learning**
+- 👨‍🎓**Artificial Intelligent** student
+- 💡Passionate about **Computer Vision**
+- 👨‍💻Currently learning Deep Learning
+- ✌️Active IEEE member
 
-- 📫 How to reach me **odaiayyad24@ieee.org**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 ## 🌐 Socials:
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odai-ayyad) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/odai.ayyad.24) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/OdaiAyyad24) 
