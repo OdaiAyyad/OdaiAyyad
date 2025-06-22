@@ -1,9 +1,8 @@
 # Hi 👋
 
-- 👨‍🎓**Artificial Intelligent** student
-- 💡Passionate about **Computer Vision**
-- 👨‍💻Currently learning Deep Learning
-- ✌️Active IEEE member
+- 👨‍🎓**Junior AI Specialist Intern** @ Unihance
+- 💡**Passionate about AI Agents, LLM apps, and applying GenAI** for real-world automation.
+- ✌️**Active IEEE member**
 
 <p align="left">
 
