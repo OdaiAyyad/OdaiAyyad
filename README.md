@@ -1,6 +1,6 @@
 # Hi 👋
 
-- 👨‍🎓**Junior AI Specialist Intern** @ Unihance
+- 👨‍🎓**AI Intern** @ Unihance
 - 💡**Passionate about AI Agents, LLM apps, and applying GenAI** for real-world automation.
 - ✌️**Active IEEE member**
 
