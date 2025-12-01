@@ -7,7 +7,8 @@
 - 🛠️ **Digital Fabrication Enthusiast** @ The Makerspace - Crown Prince Foundation
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odai-ayyad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odai-ayyad)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/OdaiAyyad24)
 
 ## 🤖 AI & Machine Learning Stack:
 <p align="left">
