@@ -20,9 +20,6 @@
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> 
   <img src="https://avatars.githubusercontent.com/u/170677839?s=200&v=4" alt="langgraph" width="40" height="40"/> 
 </a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/> 
-</a>
 <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/> 
 </a>
