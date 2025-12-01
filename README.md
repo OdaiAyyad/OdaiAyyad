@@ -5,6 +5,7 @@
 - 🚀 Developed **YOLOv11 traffic safety system** (94.7% mAP50) & **YouTube AI Agent** with GPT-4o
 - 🎯 **IEEE Young Professionals** leader | Mentored 100+ members across regional tech events
 - 🛠️ **Digital Fabrication Enthusiast** @ The Makerspace - Crown Prince Foundation
+- 🔍 **Actively seeking AI Engineer/ML Engineer opportunities** to apply my expertise in LLMs, AI Agents, and Computer Vision
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odai-ayyad) 
@@ -81,12 +82,10 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
 </a>
-<a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> 
-  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/2022/fusion-360-2022-badge-75x75.png" alt="fusion360" width="40" height="40"/> 
-</a>
 </p>
 
 ---
 
+💼 **Open to opportunities**: AI Engineer | ML Engineer | LLM Application Developer roles  
 💡 **Currently exploring**: Multi-agent systems, prompt engineering optimization, and production-grade RAG pipelines  
 📫 **Contact**: odaiayyad24@ieee.org | Amman, Jordan
