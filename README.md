@@ -1,6 +1,5 @@
 # Hi 👋 I'm Odai Ayyad
 
-- 👨‍💼 **AI Intern** @ Unihance | Building intelligent agent systems & LLM applications
 - 🤖 **Passionate about AI Agents, RAG, and LangChain/LangGraph** for real-world automation
 - 🚀 Developed **YOLOv11 traffic safety system** (94.7% mAP50) & **YouTube AI Agent** with GPT-4o
 - 🎯 **IEEE Young Professionals** leader | Mentored 100+ members across regional tech events
